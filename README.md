@@ -1,5 +1,6 @@
 ## Heyo 👋 devs
-## 3rd year student having love/hate relationship with Programming.
+## Samridhi here
+### 3rd year student having love/hate relationship with Programming.
 
 
 
