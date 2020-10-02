@@ -1,6 +1,6 @@
-### Hi there 👋
-### Samridhi here :heart:
-### - 🔭 I’m currently working on  Java :grey_exclamation:
+## Heyo 👋 devs
+## 3rd year student having love/hate relationship with Programming.
+
 
 
 <!--
